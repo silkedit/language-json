@@ -1,0 +1,10 @@
+{
+  "name": "language-json",
+  "version": "0.1.0",
+  "description": "JSON language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-json.git"
+  },
+  "license": "MIT"
+}
